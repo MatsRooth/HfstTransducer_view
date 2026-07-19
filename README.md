@@ -19,7 +19,7 @@ CV.minimize()
 CV.view()
 ```
 
-For more, see the notebook Syllable.ipynb()
+For more, see the notebook demo_view.ipynb.
 
 
 
