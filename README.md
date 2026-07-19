@@ -1,5 +1,5 @@
 # HfstTransducer.view
-Restore a version of the method for viewing a transducer in a Jupyter notebook.  This is found in the `hfst_dev` branch, but not in a current `hfst 3.16.0.1`.
+Add a version of the view method for viewing a transducer in a Jupyter notebook.  This is found in the `hfst_dev` branch, but not in a current `hfst 3.16.0.1`.
 
 # Setup
 ```
