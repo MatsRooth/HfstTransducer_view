@@ -21,7 +21,7 @@ CV.view()
 
 ![CV](./img/cv.png)
 
-This is part of a more complicated example. Word consists of (C)V(C) syllables with a dot separator. Devoin is final devoicing.  In the transducer, underlying b, d, and g are realized as surface p, t and k.
+This is part of a more complicated example. Word consists of (C)V(C) syllables with a dot separator. Devoi is final devoicing.  In the transducer, underlying b, d, and g are realized as surface p, t and k.
 
 ![Final devoicing](./img/final_devoi.png)
 
