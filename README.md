@@ -21,9 +21,13 @@ CV.view()
 
 ![CV](./img/cv.png)
 
-This is part of a more complicated example.
+This is part of a more complicated example. Word consists of (C)V(C) syllables with a dot separator. Devoin is final devoicing.  In the transducer, underlying b, d, and g are realized as surface p, t and k.
 
-For more, see the notebook demo_view.ipynb.
+![devoi](./img/devoi.png)
+
+
+# Notebook
+For more, see demo_view.ipynb.
 
 
 
