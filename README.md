@@ -19,6 +19,10 @@ CV.concatenate(Vow)
 CV.view()
 ```
 
+![CV](./img/cv.png)
+
+This is part of a more complicated example.
+
 For more, see the notebook demo_view.ipynb.
 
 
