@@ -12,10 +12,10 @@ hfst_transducer_view.install()
 # Functionality
 
 ```
+Vow = hfst.regex("[a|e|i|o|u]")
 Cons = hfst.regex("[p|b|t|d|k|g]")
 CV = Cons.copy()
 CV.concatenate(Vow)
-CV.minimize()
 CV.view()
 ```
 
